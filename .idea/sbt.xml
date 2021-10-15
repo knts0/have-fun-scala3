@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/answer" />
+            <option value="$PROJECT_DIR$/chapters" />
+            <option value="$PROJECT_DIR$/docs" />
+            <option value="$PROJECT_DIR$/exercise" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/tasty-inspector" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.5.0" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
